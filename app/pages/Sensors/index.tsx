@@ -45,6 +45,14 @@ const Sensors = ({ navigation }: any) => {
     };
   }, []);
 
+  console.log("heelooo");
+  console.log("heelooo");
+  console.log("heelooo");
+  console.log("heelooo");
+  console.log("heelooo");
+  console.log("heelooo");
+  console.log("heelooo");
+
   return (
     <View style={styles.wrapper}>
       <Button
